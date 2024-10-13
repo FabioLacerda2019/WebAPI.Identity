@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\WebAPI.Identity\WebAPI.Repository\bin\Debug\netcoreapp2.1\WebAPI.Repository.deps.json
+C:\Users\Administrator\source\repos\WebAPI.Identity\WebAPI.Repository\bin\Debug\netcoreapp2.1\WebAPI.Repository.dll
+C:\Users\Administrator\source\repos\WebAPI.Identity\WebAPI.Repository\bin\Debug\netcoreapp2.1\WebAPI.Repository.pdb
+C:\Users\Administrator\source\repos\WebAPI.Identity\WebAPI.Repository\bin\Debug\netcoreapp2.1\WebAPI.Dominio.dll
+C:\Users\Administrator\source\repos\WebAPI.Identity\WebAPI.Repository\bin\Debug\netcoreapp2.1\WebAPI.Dominio.pdb
+C:\Users\Administrator\source\repos\WebAPI.Identity\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WebAPI.Identity\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WebAPI.Identity\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WebAPI.Identity\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebAPI.Identity\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebAPI.Identity\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.R.985611EC.Up2Date
+C:\Users\Administrator\source\repos\WebAPI.Identity\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.dll
+C:\Users\Administrator\source\repos\WebAPI.Identity\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.pdb
